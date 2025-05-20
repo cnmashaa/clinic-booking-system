@@ -12,5 +12,8 @@ This MySQL database project supports a clinic’s operations by managing patient
 2. Open MySQL Workbench or another SQL client.
 3. Run the SQL script:
 
+## ERD LINK
+https://dbdiagram.io/d
+
 ```sql
 SOURCE clinic_booking_system.sql;
