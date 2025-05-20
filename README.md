@@ -13,7 +13,7 @@ This MySQL database project supports a clinic’s operations by managing patient
 3. Run the SQL script:
 
 ## ERD LINK
-https://dbdiagram.io/d
+https://dbdiagram.io/d/682cb033b9f7446da35e62a2
 
 ```sql
 SOURCE clinic_booking_system.sql;
